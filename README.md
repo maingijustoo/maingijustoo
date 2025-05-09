@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security red teaming
 - 🌱 I’m currently learning computer science uon
 - 💞️ I’m looking to collaborate on red teaming and penetration testing
-- 📫 How to reach me justoforreal@gmail.com
+- 📫 How to reach me maingijustus13@gmail.com
 - ⚡ Fun fact: none heh !
 
 <!---
